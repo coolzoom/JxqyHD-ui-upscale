@@ -38,6 +38,7 @@
 - 4) Video must include an audio track.
 - 5) Audio accompanying the video must be Windows Media Audio (.wma) encoded, with a single-pass CBR format.
 - 6) XNA Game Studio supports the following maximum bit rates: 
+
 |Level          |Maximum Bit Rate          |Representative resolutions by frame rate   |
 |:--------------|:-------------------------|:-----------------------------------------:|
 |Low            |2 Mbps                    |320 × 240 @ 24 Hz (QVGA)                   |
