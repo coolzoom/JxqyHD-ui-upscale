@@ -4,22 +4,22 @@
 ### 使用方式
 - 右上角点code->downloadzip然后解压，打开复制里面所有内容到游戏目录覆盖原有文件
 
-### 20210228 动态主界面，需配合提交https://github.com/coolzoom/JxqyHD/commit/0522f821852f8db18327a6cbc92dc85aaf37798f
+### 20210227 动态主界面，需配合提交https://github.com/coolzoom/JxqyHD/commit/0522f821852f8db18327a6cbc92dc85aaf37798f
 - 备注：大图貌似只能插入10帧否则报错，可能是文件大小限制
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_17-05-54.png" alt="1" />
 
-### 20210228 art模式重新生成主界面和按钮
+### 20210227 art模式重新生成主界面和按钮
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_15-35-21.png" alt="1" />
 
-### 20210228 游戏顶部界面和按钮3倍AI高清放大
+### 20210227 游戏顶部界面和按钮3倍AI高清放大
 - todo, 对应按钮功能后弹窗位置尚未调整
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_15-01-29.png" alt="1" />
 
-### 20210228 存档界面和按钮3倍AI高清放大
+### 20210227 存档界面和按钮3倍AI高清放大
 - todo, 字体大小未调整, 使用gameedit启动和直接jxqy启动生成的存档图大小不一样
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_14-05-30.png" alt="1" />
 
-### 20210228 主界面和按钮3倍AI高清放大
+### 20210227 主界面和按钮3倍AI高清放大
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_00-08-37.png" alt="1" />
 
 ### 逐帧修复过场动画
