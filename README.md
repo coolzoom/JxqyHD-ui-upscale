@@ -4,6 +4,9 @@
 ### 使用方式
 - 右上角点code->downloadzip然后解压，打开复制里面所有内容到游戏目录覆盖原有文件
 
+### 20210228 art模式重新生成主界面和按钮
+<img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_15-35-21.png" alt="1" />
+
 ### 20210228 游戏顶部界面和按钮3倍AI高清放大
 - todo, 对应按钮功能后弹窗位置尚未调整
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_15-01-29.png" alt="1" />
