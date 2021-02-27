@@ -4,6 +4,10 @@
 ### 使用方式
 - 右上角点code->downloadzip然后解压，打开复制里面所有内容到游戏目录覆盖原有文件
 
+### 20210228 动态主界面，需配合提交https://github.com/coolzoom/JxqyHD/commit/0522f821852f8db18327a6cbc92dc85aaf37798f
+- 备注：大图貌似只能插入10帧否则报错，可能是文件大小限制
+<img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_17-05-54.png" alt="1" />
+
 ### 20210228 art模式重新生成主界面和按钮
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_15-35-21.png" alt="1" />
 
