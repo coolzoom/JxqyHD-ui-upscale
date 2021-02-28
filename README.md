@@ -4,6 +4,10 @@
 ### 使用方式
 - 右上角点code->downloadzip然后解压，打开复制里面所有内容到游戏目录覆盖原有文件
 
+### 20210228 游戏底部界面和按钮3倍AI高清放大
+- todo, 对应法术和物品图标大小尚未调整
+<img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-28_21-32-33.png" alt="1" />
+
 ### 20210227 动态主界面，需配合提交https://github.com/coolzoom/JxqyHD/commit/0522f821852f8db18327a6cbc92dc85aaf37798f
 - 备注：大图貌似只能插入10帧否则报错，可能是文件大小限制
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_17-05-54.png" alt="1" />
