@@ -4,12 +4,15 @@
 ### 使用方式
 - 右上角点code->downloadzip然后解压，打开复制里面所有内容到游戏目录覆盖原有文件
 
+### todo
+- todo, 对应法术和物品图标大小尚未调整
+- todo, 对应顶部按钮功能后弹窗位置尚未调整
+
 ### 20210302 对话窗体批量3倍AI高清放大
 - MpcAsfTool修改支持批量导入放大后的图片，感谢@mapic91大佬 https://github.com/coolzoom/jxqyMpcAsfTool
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-03-02_15-39-23.png" alt="1" />
 
 ### 20210228 游戏底部界面和按钮3倍AI高清放大
-- todo, 对应法术和物品图标大小尚未调整
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-28_21-32-33.png" alt="1" />
 
 ### 20210227 动态主界面，需配合提交https://github.com/coolzoom/JxqyHD/commit/0522f821852f8db18327a6cbc92dc85aaf37798f
@@ -20,7 +23,6 @@
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_15-35-21.png" alt="1" />
 
 ### 20210227 游戏顶部界面和按钮3倍AI高清放大
-- todo, 对应按钮功能后弹窗位置尚未调整
 <img align="center" src="https://github.com/coolzoom/JxqyHD-ui-upscale/blob/master/Snipaste_2021-02-27_15-01-29.png" alt="1" />
 
 ### 20210227 存档界面和按钮3倍AI高清放大
