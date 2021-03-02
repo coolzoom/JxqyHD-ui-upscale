@@ -1,0 +1,5 @@
+//Æ¬Í·½Å±¾
+	PlayMovie("logo-4-3.avi");
+	PlayMusic("mc000.mp3");
+	ReturnToTitle();
+	Return;

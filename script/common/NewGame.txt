@@ -1,0 +1,7 @@
+// пбсно╥╫е╠╬
+
+	StopMusic();
+	LoadGame(0);
+	PlayMovie("open-4-3.avi");
+	RunScript("Begin.txt");
+	Return;

@@ -1,0 +1,7 @@
+// ÖÆ×÷×é½éÉÜ
+
+	StopMusic();
+	PlayMovie("team-4-3.avi",0,0,0);
+	PlayMusic("mc000.mp3");
+	ReturnToTitle();
+	Return;
