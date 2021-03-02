@@ -7,6 +7,10 @@
 ### todo
 - todo, 对应法术和物品图标大小尚未调整
 - todo, 对应顶部按钮功能后弹窗位置尚未调整
+- todo, 部分asf转换时软件崩溃，effect里面几个文件暂未处理 只做大小缩放不做AI修复 
+- mag006-1-蚀骨血仞.asf mag006-3-蚀骨血仞.asf mag008-1-潮起月盈.asf mag009-3-云生结海.asf mag016-3-烈火情天.asf mag025-1-冰刀攻击.asf mag030-1-魂牵梦绕.asf 蔷薇攻击.asf
+- todo 法术效果已经处理暂不替换，位置需要做调整
+
 
 ### 20210302 对话窗体批量3倍AI高清放大
 - MpcAsfTool修改支持批量导入放大后的图片，感谢@mapic91大佬 https://github.com/coolzoom/jxqyMpcAsfTool
